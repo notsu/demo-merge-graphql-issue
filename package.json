@@ -5,22 +5,22 @@
   "author": "Pichet Itngam",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-express": "^2.0.0-beta.7",
+    "apollo-server-express": "^2.6.9",
     "babel-plugin-transform-runtime": "^6.23.0",
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3",
-    "graphql": "^0.13.2",
-    "graphql-tag": "^2.9.2",
-    "graphql-tools": "^3.0.2",
-    "merge-graphql-schemas": "^1.5.1"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "graphql": "^14.4.2",
+    "graphql-tag": "^2.10.1",
+    "graphql-tools": "^4.0.5",
+    "merge-graphql-schemas": "^1.5.8"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
-    "babel-loader": "^7.1.4",
+    "babel-loader": "^8.0.6",
     "babel-plugin-lodash": "^3.3.4",
     "babel-plugin-module-alias": "^1.6.0",
-    "babel-plugin-module-resolver": "^3.1.1",
+    "babel-plugin-module-resolver": "^3.2.0",
     "babel-plugin-transform-regenerator": "^6.26.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.7.0",
@@ -28,8 +28,8 @@
     "babel-preset-stage-0": "^6.24.1",
     "babel-register": "^6.26.0",
     "start-server-webpack-plugin": "^2.2.5",
-    "webpack": "^4.12.0",
-    "webpack-command": "^0.2.1",
+    "webpack": "^4.35.3",
+    "webpack-command": "^0.4.2",
     "webpack-node-externals": "^1.7.2"
   },
   "scripts": {
