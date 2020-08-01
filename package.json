@@ -5,13 +5,13 @@
   "author": "Pichet Itngam",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-express": "^2.16.0",
+    "apollo-server-express": "^2.16.1",
     "babel-plugin-transform-runtime": "^6.23.0",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "graphql": "^15.3.0",
-    "graphql-tag": "^2.10.4",
-    "graphql-tools": "^6.0.14",
+    "graphql-tag": "^2.11.0",
+    "graphql-tools": "^6.0.15",
     "merge-graphql-schemas": "^1.7.8"
   },
   "devDependencies": {
@@ -28,7 +28,7 @@
     "babel-preset-stage-0": "^6.24.1",
     "babel-register": "^6.26.0",
     "start-server-webpack-plugin": "^2.2.5",
-    "webpack": "^4.43.0",
+    "webpack": "^4.44.1",
     "webpack-command": "^0.5.0",
     "webpack-node-externals": "^2.5.0"
   },
